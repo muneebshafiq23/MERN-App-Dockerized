@@ -10,6 +10,8 @@ A full-stack Todo application built with the **MERN stack** (MongoDB, Express.js
 - Basic error handling and validation
 
 ## Project Structure
+
+ ````` 
 mern-todo-app/
 │
 ├── backend/ # Express & Node.js API
@@ -40,9 +42,11 @@ npm start
 ```
 ### Frontend Setup
 
+```bash
 cd frontend
 npm install
 npm start
+```
 
 > Make sure MongoDB is running locally or provide a MongoDB Atlas URI in your .env.
 
