@@ -54,7 +54,7 @@ The app will run on: http://localhost:3000
 > Make sure MongoDB is running locally or provide a MongoDB Atlas URI in your .env.
 
 ## Environment Variables
-> Create a .env file in the backend/ folder with:
+Create a .env file in the backend/ folder with:
 ```bash
 MONGO_URI=your_mongodb_atlas_connection_string
 PORT=5000
