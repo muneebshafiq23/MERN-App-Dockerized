@@ -24,7 +24,7 @@ mern-todo-app/
 │ └── public/
 │
 └── README.md
-
+`````
 ## Tech Stack
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
@@ -47,7 +47,6 @@ cd frontend
 npm install
 npm start
 ```
-
 > Make sure MongoDB is running locally or provide a MongoDB Atlas URI in your .env.
 
 ## Screenshots
