@@ -50,6 +50,7 @@ npm start
 > Make sure MongoDB is running locally or provide a MongoDB Atlas URI in your .env.
 
 ## Screenshots
+<img width="1920" height="842" alt="Screenshot (364)" src="https://github.com/user-attachments/assets/c916585d-8429-4b01-b72f-ba4c828a4961" />
 
 ## Author
 Faiza Maqsood 
