@@ -5,6 +5,13 @@ This project demonstrates production-ready containerization with isolated servic
 
 ---
 
+## Original Project
+
+This project is originally by **Luis Fernando**.  
+I have only **Dockerized it for learning and deployment purposes**.
+
+---
+
 ## Features
 
 * Fully containerized MERN application
