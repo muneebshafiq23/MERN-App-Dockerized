@@ -5,7 +5,7 @@ This project demonstrates production-ready containerization with isolated servic
 
 ---
 
-## 🚀 Features
+## Features
 
 * Fully containerized MERN application
 * Separate Docker images for frontend & backend
@@ -17,7 +17,7 @@ This project demonstrates production-ready containerization with isolated servic
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Layer            | Technology                       |
 | ---------------- | -------------------------------- |
@@ -29,7 +29,7 @@ This project demonstrates production-ready containerization with isolated servic
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 mern-todo-app/
@@ -53,7 +53,7 @@ mern-todo-app/
 
 ---
 
-## 🔐 Environment Variables (Backend)
+## Environment Variables (Backend)
 
 Create a `.env` file inside the **backend** folder:
 
@@ -68,7 +68,7 @@ JWT_SECRET=your-secret
 
 ---
 
-## 🐳 Running the App with Docker Compose
+##  Running the App with Docker Compose
 
 ### 1️⃣ Build & Start All Services:
 
@@ -90,7 +90,7 @@ docker compose logs -f backend
 
 ---
 
-## 🌐 Access the App
+##  Access the App
 
 | Service     | URL                                            |
 | ----------- | ---------------------------------------------- |
@@ -100,7 +100,7 @@ docker compose logs -f backend
 
 ---
 
-## 🧱 Docker Images Used
+## Docker Images Used
 
 * **Frontend:** Custom React build → nginxinc/nginx-unprivileged:1.29.3-alpine-perl
 * **Backend:** Node.js 20 Alpine 
@@ -108,7 +108,7 @@ docker compose logs -f backend
 
 ---
 
-## 🛡 Security Best Practices
+##  Security Best Practices
 
 * `.env` never pushed to GitHub
 * Non-root users enabled inside Docker
@@ -118,7 +118,7 @@ docker compose logs -f backend
 
 ---
 
-## 🙌 Author
+##  Author
 
 Made  by **[Muneeb Shafiq]**
 Feel free to fork, star ⭐, and contribute!
