@@ -1,17 +1,3 @@
-# Node.js dependencies
-backend/node_modules/
-frontend/node_modules/
-
-# Build files
-frontend/build/
-backend/dist/
-
-# Environment files
-*.env
-
-# Logs
-*.log
-
-# System files
-.DS_Store
-Thumbs.db
+./backend/.env
+./frontend/README.md
+README.md
